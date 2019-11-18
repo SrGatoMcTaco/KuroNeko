@@ -1,0 +1,34 @@
+
+prefix+hoy Bot Hora : Listo
+
+prefix+user User daatos : Listo 
+
+prefix+server Server Datos : Listo
+
+prefix+avatar Mostrar foto de perfil : listo 
+
+prefix+gato El Gato de la suerte : Listo 
+
+prefix+creador : listo
+
+prefix+help : listo 
+
+prefix+play : listo
+
+prefix+pause : listo
+
+prefix+resume : listo 
+
+prefix+stop : listo
+
+prefix+hug listo
+
+prefix+slap listo
+
+https://mybot-team.github.io/documentacion/guia/introducion-bot-de-musica-audio.html
+
+
+https://stackoverflow.com/questions/49677884/discord-js-random-image
+
+
+https://gabrieltanner.org/blog/dicord-music-bot
