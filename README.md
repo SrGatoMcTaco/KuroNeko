@@ -1,2 +1,2 @@
 # KuroNeko
-my first bot xd
+esto es una prueba
